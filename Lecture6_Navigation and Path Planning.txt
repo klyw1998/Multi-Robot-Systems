@@ -1,0 +1,18 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+Motion Planning*
+Configuration Space*
+Minkowski Sum*
+Intro to the Path Planning Problem
+
+Approaches and Guarantees:
+1. Combinatorial methods*
+Discrete Search Methods*
+A* algorithm *
+Complexity of Path Planning*
+
+2. Sampling-based methods*
+Probabilistic Roadmaps
+Rapidly Exploring Random Trees (RRTs)*
+
+3. Potential-field methods*
+Vector Fields with its requirements, pros and cons

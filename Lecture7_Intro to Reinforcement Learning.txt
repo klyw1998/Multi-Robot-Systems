@@ -1,0 +1,21 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+What is RL?
+
+Three types of Machine learning:
+1. Supervised Learning*
+2. Unsupervised Learning*
+3. Reinforcement Learning*
+
+Key challenges in RL：
+1. Unknown environment*
+2. Exloration-exploitation dilemma*
+3. Delayed rewards*
+
+What is Sequential Decision Making?
+
+1. Agents*
+2. Action*
+3. Environment*
+Fully Observable Environments and Partially Observable Environments
+4. State*
+5. Reward*

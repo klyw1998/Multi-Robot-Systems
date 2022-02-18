@@ -1,0 +1,20 @@
+Taxonomy of Localization Problems* (odometry-based, map-based, beacon-based)
+Challenges*
+
+Probabilistic localization*
+Bayes Rule in Robotics
+Probabilistic Generative Laws
+The Belief
+Bayes Filter
+The Markov Assumption
+Markov Localization
+Discrete Bayes Filter
+
+Grid localization*
+Monte Carlo Localization*
+Kalman Filter*
+Comparison*
+
+Map representations*
+Grid Maps*
+What is SLAM?

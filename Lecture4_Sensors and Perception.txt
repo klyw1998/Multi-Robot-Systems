@@ -1,0 +1,19 @@
+Classification of Sensors*
+Distance Sensors
+Infrared Proximity Sensors
+Sensor Calibration*
+Representing Uncertainty*
+Ultrasonic (Sonar) Sensors
+Laser Scanner (LIDAR)*
+Vision*
+Fiducials
+Perceptual Pipeline
+Odometry*
+Maximum Likelihood Estimation*
+(An Research Example)
+
+Related books:
+Sensors for Mobile Robots, H. R. Everett, 1995 
+Probabilistic Robotics, S. Thrun et al., 2006 
+Elements of Robotics, F Mondada et al., 2018 
+Autonomous Mobile Robots, R Siegwart et al., 2004
