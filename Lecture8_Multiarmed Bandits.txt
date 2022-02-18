@@ -1,0 +1,18 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+
+Multi-Armed Bandit Problem*
+Exploration-exploitation dilemma*
+
+Action-value methods:*
+ϵ-Greedy Action Selection*
+Upper Confidence Bound (UCB) Action Selection*
+
+Gradient methods:*
+Stochastic gradient ascent to optimise policy*
+
+Comparison of Bandit Algorithms*
+
+References:
+1. <<Reinforcement Learning: An Introduction>>, Richard S. Sutton and Andrew G. Barto, Chapter 2
+2. P. Auer, N. Cesa-Bianchi, P. Fischer (2002). Finite-time analysis of the multiarmed bandit problem. Machine Learning, 47(2-3), 235-256 (a paper)
+3. <<Bandit Algorithms>> Tor Lattimore and Csaba Szepesv´ari (a long book)
