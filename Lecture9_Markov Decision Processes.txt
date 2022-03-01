@@ -1,0 +1,18 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+
+Markov decision process*
+An Example*
+
+Policies, goals and rewards, total return*
+
+Value functions and Bellman equation*
+
+Optimal value functions and policies*
+An Example*
+
+Discounting and Average Reward*
+
+References:
+1. <<Reinforcement Learning: An Introduction>>, Richard S. Sutton and Andrew G. Barto, Chapter 3.1-3.7
+2. <<Dynamic Programming>>, Richard Bellman
+3. <<Markov Decision Processes: Discrete Stochastic Dynamic Programming>>, Martin Puterman
