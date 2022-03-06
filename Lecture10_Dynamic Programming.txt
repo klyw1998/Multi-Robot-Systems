@@ -1,0 +1,22 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+
+Policy iteration*
+
+Iterative policy evaluation*
+An example*
+Converge Proof of Iterative policy evaluation*
+
+Policy improvement*
+An example*
+
+Value iteration*
+
+Asynchronous Dynamic Programming*
+Generalised Policy Iteration*
+
+References:
+1. <<Reinforcement Learning: An Introduction>>, Richard S. Sutton and Andrew G. Barto, Chapter 4.1-4.7
+2. <<Dynamic Programming and Optimal Control>>,  Dimitri P. Bertsekas, Vol. I (450 pages)
+3. Dynamic Programming slides (302 pages), Dimitri P. Bertsekas (https://www.mit.edu/~dimitrib/DP_Slides_2015.pdf)
+4.  Planning by Dynamic Programming (42 pages), David Silver 
+(https://www.davidsilver.uk/wp-content/uploads/2020/03/DP.pdf)
