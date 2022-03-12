@@ -1,0 +1,36 @@
+（带*的是我个人建议必须讲的，别的增删都可）
+
+Recap: Generalised Policy Iteration*
+
+Monte Carlo Policy Evaluation*
+First-Visit Monte Carlo Policy Evaluation*
+An example or more*
+
+Monte Carlo Control*
+
+1. Monte Carlo Control with Exploring Starts*
+An example or more*
+
+2. Monte Carlo Control With Soft Policies*
+An example or more*
+
+3. Monte Carlo Control With Off-Policy*
+An example or more*
+
+Comparison of on-policy and off-policy*
+
+Importance Sampling*
+
+References:
+1. <<Reinforcement Learning: An Introduction>>, Richard S. Sutton and Andrew G. Barto, Chapter 5.1-5.7
+2. <<Sequential Monte Carlo methods in practice>>,  A Doucet, N De Freitas, NJ Gordon (550 pages)
+3. <<Introduction to Monte Carlo Methods>>, D.J.C. Mackay (30 pages)
+%% http://www.inference.org.uk/mackay/erice.pdf
+4. <<Monte Carlo Method>>, Drik P. Kroese (170 pages)
+%% https://people.smp.uq.edu.au/DirkKroese/mccourse.pdf
+5. <<Monte Carlo Theory, Methods and Examples>>, Art B. Owen
+%% https://artowen.su.domains/mc/
+6. %% https://people.cs.umass.edu/~barto/courses/cs687/Chapter%205.pdf
+7. %% https://people.cs.umass.edu/~barto/courses/cs687/importance_sampling.pdf
+8. %% https://www.ccs.neu.edu/home/rplatt/cs7180_fall2018/slides/monte_carlo.pdf
+9. %% http://web.stanford.edu/class/cme241/lecture_slides/rich_sutton_slides/9-10-MC.pdf
